@@ -115,7 +115,7 @@ MonoBehaviour:
   m_MinSize: {x: 880, y: 492}
   m_MaxSize: {x: 16005, y: 14042}
   vertical: 0
-  controlID: 134
+  controlID: 98
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -140,7 +140,7 @@ MonoBehaviour:
   m_MinSize: {x: 605, y: 492}
   m_MaxSize: {x: 12005, y: 14042}
   vertical: 1
-  controlID: 63
+  controlID: 124
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -166,7 +166,7 @@ MonoBehaviour:
   m_MinSize: {x: 605, y: 221}
   m_MaxSize: {x: 12005, y: 4021}
   vertical: 0
-  controlID: 64
+  controlID: 125
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -421,9 +421,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: b6b4ffff10e7ffff18fbffff
+      m_SelectedIDs: 543b0000
+      m_LastClickedID: 15188
+      m_ExpandedIDs: 6afbffff543b0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -483,9 +483,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -1.2735404, y: -3.4081397, z: 33.526417}
+    m_Target: {x: -28.333986, y: -12.717661, z: -54.273247}
     speed: 2
-    m_Value: {x: -1.2735404, y: -3.4081397, z: 33.526417}
+    m_Value: {x: -28.333986, y: -12.717661, z: -54.273247}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -531,13 +531,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.14380357, y: -0.008910989, z: 0.0012948783, w: 0.9895661}
+    m_Target: {x: 0.029219192, y: -0.9654329, z: 0.12406795, w: 0.22736509}
     speed: 2
-    m_Value: {x: 0.14380524, y: -0.007426624, z: 0.0010791706, w: 0.98957753}
+    m_Value: {x: -0.02921916, y: 0.96543187, z: -0.12406781, w: -0.22736485}
   m_Size:
-    m_Target: 29.762215
+    m_Target: 35.760258
     speed: 2
-    m_Value: 28.480589
+    m_Value: 35.760258
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -694,20 +694,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Prefabs
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Prefabs
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Gram Nitschke\Desktop\Projects\Mail-Game\Mail Game
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 78500000
-    m_LastClickedID: 20600
-    m_ExpandedIDs: 00000000d84b000000ca9a3b
+    m_SelectedIDs: 763a0000
+    m_LastClickedID: 14966
+    m_ExpandedIDs: 00000000763a000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -735,7 +735,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 00000000763a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -762,7 +762,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c62300007c500000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
